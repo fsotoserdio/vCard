@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Soto Serdio;Fernando;;;
+FN:Fernando Soto Serdio
+ORG:Nagare Inc.
+TITLE:Chief Executive Officer
+TEL;TYPE=work,voice:+56994178266
+URL:https://www.nagaretech.com
+ADR;TYPE=work:;;Apoquindo 5950, Piso 8;Las Condes;Santiago;;Chile
+END:VCARD
